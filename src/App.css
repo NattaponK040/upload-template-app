@@ -1,0 +1,18 @@
+.center-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.center-screen .container{
+    width: 500px;
+    padding: 50px;
+}
+
+#outlined-basic{
+    height: 20px;
+}
